@@ -1,0 +1,4 @@
+CACHE MANIFEST
+images/head.png
+NETWORK: *
+FALLBACK: /
