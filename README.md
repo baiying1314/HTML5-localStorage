@@ -1,1 +1,0 @@
-## [点此查看效果](https://baiying1314.github.io/HTML5-drag-drop/drag.html)
